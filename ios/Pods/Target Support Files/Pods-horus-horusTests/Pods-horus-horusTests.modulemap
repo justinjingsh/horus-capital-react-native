@@ -1,0 +1,6 @@
+module Pods_horus_horusTests {
+  umbrella header "Pods-horus-horusTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
