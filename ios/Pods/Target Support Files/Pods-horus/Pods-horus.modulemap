@@ -1,0 +1,6 @@
+module Pods_horus {
+  umbrella header "Pods-horus-umbrella.h"
+
+  export *
+  module * { export * }
+}
